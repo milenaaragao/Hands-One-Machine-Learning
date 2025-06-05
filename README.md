@@ -1,1 +1,1 @@
-# Hands-One-Machine-Learning
+# Hands-On-Machine-Learning
